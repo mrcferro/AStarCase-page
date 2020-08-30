@@ -1,3 +1,3 @@
 ## Welcome to AStarCASE page
 
-# Download
+Click here to download the current version of AStarCASE.
