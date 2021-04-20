@@ -7,6 +7,6 @@ Instructions for use
 2. Run the AStar.exe file
 
 
-[![Watch the video]](https://youtu.be/_fF1wf52rM4)
+[![Watch the video]](example.png)
 
 
