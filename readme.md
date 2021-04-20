@@ -1,12 +1,11 @@
 AStarCASE
-version 0.1
+version 1.0.2
 
 Instructions for use
 
-1. Unzip the astar.zip file
+1. Unzip the astar.zip file in c:\
 2. Run the AStar.exe file
-3. Select your workspace directory
-4. Create a new General Project (File > New > Project > General > Project). Give a name to the project.
-5. Next, create an example (File > New > Other > Examples) of type "Schema Diagram".
+
+[![Watch the video](example.png)](https://youtu.be/_fF1wf52rM4)
 
 
