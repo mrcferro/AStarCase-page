@@ -8,6 +8,6 @@ Instructions for use
 
 Click on the figure below to see the video:
 
-[![Watch the video](example.png)](https://youtu.be/_fF1wf52rM4)
+[![Watch the video](example.png)](https://youtu.be/_fF1wf52rM4){:target="_blank" rel="noopener"}
 
 
